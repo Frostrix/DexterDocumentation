@@ -52,7 +52,10 @@
     "globalMetadata": {
       "_appTitle": "Dexter Documentation",
       "_appFooter": "Dexter 2020",
-      "_enableSearch": false,
+      "_enableSearch": true,
+      "_gitContribute": {
+        "repo": "https://github.com/Frostrix/DexterDocumentation",
+      }
     },
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
