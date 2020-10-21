@@ -1,6 +1,6 @@
 # Dexter .NET Documentation
 
-[![All Contributors](https://img.shields.io/badge/All_Contributors-1-default.svg?style=flat&logo=github)](https://github.com/Frostrix/Dexter)&nbsp;
+[![All Contributors](https://img.shields.io/badge/All_Contributors-1-default.svg?style=flat&logo=github)](https://github.com/Frostrix/DexterDocumentation)&nbsp;
 
 💙 **Dexter** is a bot for use in the server [**USFurries**](https://discord.gg/USFurries). Visit the website [**here**](https://us-furries.com).
 
