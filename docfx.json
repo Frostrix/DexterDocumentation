@@ -49,6 +49,12 @@
       }
     ],
     "dest": "_site",
+    "globalMetadata": {
+      "_appTitle": "Dexter Documentation",
+      "_gitContribute": {
+        "repo": "https://github.com/Frostrix/DexterDocumentation",
+      }
+    },
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
     "template": [
