@@ -52,10 +52,7 @@
     "globalMetadata": {
       "_appTitle": "Dexter Documentation",
       "_appFooter": "Dexter 2020",
-      "_enableSearch": true,
-      "_gitContribute": {
-        "repo": "https://github.com/Frostrix/DexterDocumentation",
-      }
+      "_enableSearch": false,
     },
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
@@ -68,9 +65,6 @@
     "noLangKeyword": false,
     "keepFileLink": false,
     "cleanupCacheHistory": false,
-    "disableGitFeatures": false,
-    "xrefService": [
-      "https://xref.docs.microsoft.com/query?uid={uid}"
-    ]
+    "disableGitFeatures": false
   }
 }
