@@ -1,4 +1,4 @@
-# Dexter .Net Documentation
+# Dexter Documentation
 
 [![GitHub](https://img.shields.io/github/last-commit/Frostrix/DexterDocumentation?style=flat)](https://github.com/Frostrix/Dexter)
 [![Build Status](https://dev.azure.com/frostrixz/Dexter/_apis/build/status/Frostrix.Dexter?branchName=master)](https://dev.azure.com/frostrixz/Dexter/_build/latest?definitionId=2&branchName=master)
