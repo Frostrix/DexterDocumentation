@@ -51,7 +51,7 @@
     "dest": "_site",
     "globalMetadata": {
       "_appTitle": "Dexter Documentation",
-      "_appFooter": "Dexter (c) 2020",
+      "_appFooter": "Dexter 2020",
       "_enableSearch": true,
       "_gitContribute": {
         "repo": "https://github.com/Frostrix/DexterDocumentation",
